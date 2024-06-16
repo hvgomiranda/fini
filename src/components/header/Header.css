@@ -1,0 +1,14 @@
+.Header{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: "Nunito", sans-serif;
+}
+.Header__title{
+
+}
+.Header__menu{
+
+}
