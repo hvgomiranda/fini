@@ -1,5 +1,5 @@
 import "./Body.css";
-import Balls from "../balls/Balls";
+import Circles from "../circles/Circles.jsx";
 import React, { useEffect, useState, useRef } from 'react';
 
 const Body = () => {
@@ -31,7 +31,7 @@ const Body = () => {
         ref={containerRef}
         className="Body"
       >
-        <Balls containerSize={containerSize} />
+        <Circles />
       </div>
     );
   };

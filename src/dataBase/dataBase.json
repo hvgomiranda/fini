@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "titulo": "ojos blancos",
+        "tipo": "color",
+        "enlace-imagen": "/media/edo.jpg",
+        "enlace": "https://www.youtube.com/watch?v=JP4UIY_Wd60",
+        "texto": "Jin Yerei - Ojos Blancos"
+    },
+    {
+        "id": 2,
+        "titulo": "por si algún día me muero",
+        "tipo": "coordinación",
+        "enlace-imagen": "/media/edo.jpg",
+        "enlace": "https://www.youtube.com/watch?v=k3ncdoxfUao",
+        "texto": "Martín Oliver - Por si algún día me muero"
+    },
+    {
+        "id": 3,
+        "titulo": "todo rosa",
+        "tipo": "color",
+        "enlace-imagen": "/media/edo.jpg",
+        "enlace": "https://www.youtube.com/watch?v=RTvFesG-Syk",
+        "texto": "La Valenti - Todo rosa (Terrazas Vibes)"
+    },
+    {
+        "id": 4,
+        "titulo": "norte",
+        "tipo": "color",
+        "enlace-imagen": "/media/edo.jpg",
+        "enlace": "https://www.youtube.com/watch?v=l1AcfQuvL-4",
+        "texto": "Munay Tambo - Norte"
+    },
+    {
+        "id": 5,
+        "titulo": "nuestra cosa perdida",
+        "tipo": "restauración",
+        "enlace-imagen": "",
+        "enlace": "",
+        "texto": "Nuestra Cosa Perdida, de Martina Cruz"
+    }
+]
